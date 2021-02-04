@@ -1,4 +1,4 @@
-#  Blomenstock Response
+#  Blumenstock Response
 
 ##  Aravind Surumpudi
 
