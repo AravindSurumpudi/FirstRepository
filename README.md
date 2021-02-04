@@ -1,5 +1,5 @@
-# Liberia
+# My data 150 class/COLL 150
 
-This is my final project on Liberia
+This is my blomenstock responnse
 
-[response1](https://aravindsurumpudi.github.io/FirstRepository/blomenstock.html)
+[blomenstock response](https://aravindsurumpudi.github.io/FirstRepository/blomenstock.html)
