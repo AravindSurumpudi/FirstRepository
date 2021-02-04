@@ -3,7 +3,7 @@
 
 ## Informal Responses
 
-1. [blomenstock response](https://aravindsurumpudi.github.io/FirstRepository/blomenstock.html)
+1. [blumenstock response](https://aravindsurumpudi.github.io/FirstRepository/blomenstock.html)
 
 
 ## Formal Responses
