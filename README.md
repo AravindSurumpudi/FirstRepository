@@ -1,4 +1,4 @@
-# My Data 150 class/COLL 150
+# My Data/COLL 150 Index for the semester
 
 
 ## Informal Responses
