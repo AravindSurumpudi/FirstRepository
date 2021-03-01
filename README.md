@@ -9,4 +9,4 @@
 
 ## Formal Responses
 
-1. [Annotated Bibliography](https://github.com/AravindSurumpudi/FirstRepository/blob/main/AnnotatedBibliography.md)
+1. [Annotated Bibliography](https://aravindsurumpudi.github.io/FirstRepository/AnnotatedBibliography.html)
