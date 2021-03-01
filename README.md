@@ -9,4 +9,4 @@
 
 ## Formal Responses
 
-1. 
+1. [Annotated Bibliography]
