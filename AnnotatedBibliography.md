@@ -4,6 +4,8 @@
 
 #### Febuary 28th, 2021
 
+word count: 1977 words
+
 **Steele, J. (2017, February 19). Mobile phones can create high-resolution poverty map. Retrieved February 23, 2021, from https://www.indiatoday.in/technology/news/story/mobile-phones-can-create-high-reolution-poverty-map-959791-2017-02-09**
 
 
@@ -36,4 +38,6 @@ Somalia is a country that has experienced a lot of trauma which has led to immen
    
 This article relates to Amartya Sen’s definition of human development, because the manufacturing of poverty maps or security assessment access maps would allow for citizens of Somalia to expand their freedoms and gain a better life. The dimension of human development that is being addressed by the authors’ research is poverty assessment and analysis. The development goals that the author stated was to refine poverty estimations by incorporating predictors with higher spatial frequencies and building footprints. The geospatial data sets used in this study were satellite imager and the SHFS itself, while the methods could range from anything between simple sampling strategy to survey design. The human development pattern that the author is investigating pertains to poverty assessment of all of Somalia’s people, including the nomadic ones. Finally, I believe that the scientific question being addressed here is: How can we effectively map out poverty in inaccessible/dangerous areas?
 	
+	
+In conclusion, all of these articles really opened my eyes on what data science can achieve. The implications are endless and can branch out even further than the realm of poverty analysis and assessment. I feel that with all my analysis of these articles, the next direction would be to study the effects of all this research on a broader scale. All of these studies are confined to a certain region or area, but I want to see this data utilized by governments to cause real change. The data is there, all we need to do is utilize it. Overall, I really enjoyed reading and assessing these articles and I feel that I laid out a perfect blueprint for Assignment 2.
 	
