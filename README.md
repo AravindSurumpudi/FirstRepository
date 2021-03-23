@@ -10,5 +10,5 @@
 ## Formal Responses
 
 1. [Assignment 1](https://aravindsurumpudi.github.io/FirstRepository/AnnotatedBibliography.html)
-2. [Assignment 2](https://aravindurumpudi.github.io/FirstRepository/Assignment2.html)
+2. [Assignment 2](https://aravindsurumpudi.github.io/FirstRepository/LiteratureReview.html)
 
