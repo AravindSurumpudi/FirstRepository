@@ -54,3 +54,8 @@ This article is by Stanford scientists, and how they point out that machine lear
 
 This article provided me with further knowledge on how global poverty can be assessed via satellite imagery from outer space. In this specific study, satellite imagery and neural networks were used to predict asset wealth. Similar to the study done by the Stanford scientists, economic livelihood was assessed through nightlights. In order to complete the task of utilizing computer vision to map and predict poverty in Rwanda, five steps needed to take place. 1. Download Demographic and Health Surveys (DHS), nightlight satellite imagery, and daytime satellite imagery. 2. Test whether nightlights can predict wealth accurately. 3.Test whether basic features of daytime imagery can also predict wealth accurately, and extract image features. 4.Construct a convolutional neural network (CNN) leveraging a combined dataset of daytime and nightlight images and apply transfer learning. 5.Construct maps showing the predicted distributions of wealth. In conclusion heatmaps of wealth predictions were able to be plotted.
 
+**Martinez, A., Jr. (2021, March 11). Using machine learning on satellite images to map poverty. Retrieved March 22, 2021, from https://development.asia/insight/using-machine-learning-satellite-images-map-poverty**
+
+This article is virtually the exact same as the Kumar paper, in that poverty models and maps were created in order to assess economic prosperity or economic hardship. In this article, instead of assessing poverty in Rwanda, it was about assessing poverty in the Philippines and Thailand. Though, my focus was on Eastern Africa; The same principles still apply, and further improved my understanding on how satellite imagery is used to predict poverty.
+
+
