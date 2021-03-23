@@ -1,4 +1,4 @@
-#  Annotated Bibliography
+#  Annotated Bibliography (Updated with 4 New Sources)
 
 ##  Aravind Surumpudi
 
@@ -41,3 +41,7 @@ This article relates to Amartya Sen’s definition of human development, because
 	
 In conclusion, all of these articles really opened my eyes on what data science can achieve. The implications are endless and can branch out even further than the realm of poverty analysis and assessment. I feel that with all my analysis of these articles, the next direction would be to study the effects of all this research on a broader scale. All of these studies are confined to a certain region or area, but I want to see this data utilized by governments to cause real change. The data is there, all we need to do is utilize it. Overall, I really enjoyed reading and assessing these articles and I feel that I laid out a perfect blueprint for Assignment 2.
 	
+
+**Castelan, C. R. (2019, July 9). Making a better poverty map. Retrieved March 22, 2021, from https://blogs.worldbank.org/opendata/making-better-poverty-map**
+	
+This article has to do with enhancing the detail and data inclusion of existing poverty maps. Basically, they are just using satellite data, CDR data, and RS data in order to fill in the gaps of poverty maps and make them much more comprehensive. In order to enhance machine learning of these predictive models and maps: Validation must be accelerated, local capacity should be strengthened, improvement of data infrastructure, and the investment of data access arrangements. Much of the rest of the article is very similar to Dr. Jessica Steel’s reports; however, this article pertained to more the advancement of those maps and predictive models.
