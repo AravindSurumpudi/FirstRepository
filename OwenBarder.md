@@ -32,3 +32,28 @@ One of the largest investments in steel production in the world. Institutions we
 **7.	According to Barder, how successful have economic models been at describing and predicting growth over the past 50 years?**
 
 Fastest progress in history (1): most successful period in history in reducing poverty, increasing incomes, and increasing life expectancy. No explanation for the difference (2) on economic growth or decline. Missing ingredients (3) for determining how and why economic growth happens in impoverished nations. All endogenous (4) characteristics of the system itself.
+
+**8.	What was the significance of Schumpeter's idea of creative destruction? How does it relate to firms and institutions? What is co-evolution and why is it significant?**
+
+Schumpeter’s idea of creative destruction is a theory that assumes that long-standing arrangements and pre-conceived assumptions should be destroyed in order to free up resources and energy to further innovation and development. This relates to firms and institutions, in that companies should innovate and remove their assumptions and arrangements that are bringing them down. Co-evolution is when each agent in the complex adaptive system of the economy is evolving in the light of the environment.
+
+**9.	What is a complex adaptive system? What are some of its important features?**
+
+The complex adaptive system is a system that consists of  a dynamic network of adaptive agents, all of which are co-evolving. Some of its important features are: Adaptive, Non-Linear, Unpredictable, self-organized, cooperative, etc.
+
+**10.	Who was Haile Sellasie? What is the significance of Kapuscinski's book The Emperor? How did Ethiopia exemplify the suppression of emergent systemic change? Do you agree with this analysis?**
+
+Hallie Sellasie was the emperor of Ethiopia (1930-1974). The significance of Kapuscinski’s book: The emperor, which chronicled the last days of Emperor Hallie Sellasie. All decisions went through Sellasie, which exemplified the suppression of emergent systematic change. Problems of poverty and hunger were forbidden to be brought up to the emperor. I do agree with Barder’s analysis of the book and Kapuscinski’s analysis on Ethiopia under Emperor Selassie.
+
+
+
+
+
+
+
+
+
+
+
+
+
