@@ -53,6 +53,13 @@ Barder recommends resisting engineering as a policy implication because it is ve
 
 This means that if we are smart, we can both accelerate and shape evolution, rather than just accepting out fate of evolution. Norman Borlaug was the man who brough about the green revolution by intervening in the evolutionary process to develop high-yield disease resistant wheat varieties.
 
+**13.	Barder also recommended to promote innovation, embrace creative destruction and shape development.  What did he mean by these recommendations?**
+
+He is trying to say that promoting innovation, embracing creative destruction, shaping development, embracing experimentation, and acting globally all foster human development. He says that the all these when combined ushers true human development, and people and governments should not fear all of these features.
+
+**14.	Who was Nicholas Georgescu-Roegen and what was his insight about economic systems and evolution?**
+
+Nicholas Georgescu-Roegen was a Romanian mathematician, statistician, and economist. He is known for utility theory, consumer choice theory, production theory, biophysical economics, and ecological economics. Roegen relates very similarly to Barder’s insights about economic systems and evolution, and both strive for human development through these systems.
 
 
 
