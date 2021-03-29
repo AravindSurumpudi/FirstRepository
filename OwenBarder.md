@@ -45,6 +45,13 @@ The complex adaptive system is a system that consists of  a dynamic network of a
 
 Hallie Sellasie was the emperor of Ethiopia (1930-1974). The significance of Kapuscinski’s book: The emperor, which chronicled the last days of Emperor Hallie Sellasie. All decisions went through Sellasie, which exemplified the suppression of emergent systematic change. Problems of poverty and hunger were forbidden to be brought up to the emperor. I do agree with Barder’s analysis of the book and Kapuscinski’s analysis on Ethiopia under Emperor Selassie.
 
+**11.	Why does Barder recommend resisting engineering as a policy implication?  What did he mean by iso-morphic mimicry?**
+
+Barder recommends resisting engineering as a policy implication because it is very difficult to engineer solutions in a complex adaptive system. The first reason is that at the level of specific improvements, the evolutionary processes often outperform design. At the level of the system as a whole, the nonlinear dynamics means that it is generally impossible to predict what will happen as a result of any particular change. This makes engineering solutions almost impossible. Iso-morphic mimicry is when something or someone mimics another rather than expending the energy to actually do the thing they are mimicking. In relation to this lecture, Barder says that in development it is easier to create an organization that looks like a police force, than it is to create an organization that can institute law.
+
+**12.	What did Barder mean by "resist fatalism"? Who was Norman Borlaug and what is the green revolution?**
+
+This means that if we are smart, we can both accelerate and shape evolution, rather than just accepting out fate of evolution. Norman Borlaug was the man who brough about the green revolution by intervening in the evolutionary process to develop high-yield disease resistant wheat varieties.
 
 
 
