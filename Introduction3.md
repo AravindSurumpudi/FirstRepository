@@ -1,4 +1,10 @@
+#  Introduction for Assignment 3
 
+##  Aravind Surumpudi
+
+#### March 30th, 2021
+
+word count: 373 words
 
 Poverty is a global problem that affects hundreds of millions of people worldwide. Many people cannot afford the common goods/services we need to survive: food, water, healthcare, etc. According to the World Bank, approximately 689 million people live in extreme poverty meaning that they live on less than $1.90 or less a day. The obvious way to solve this problem is to map and analyze poverty, so that proper funding and resources can be allocated to those nations. However, there are a few salient harms as well as the overall complex nature of using data science to map out/analyze poverty.
 
