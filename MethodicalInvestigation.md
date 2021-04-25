@@ -1,6 +1,6 @@
-#Methodical Investigation
-##Aravind Surumpudi
-###Word Count: 2030
+# Methodical Investigation
+## Aravind Surumpudi
+### Word Count: 2030
 
 **Introduction**
 
