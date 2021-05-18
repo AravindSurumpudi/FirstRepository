@@ -34,11 +34,18 @@ Global Poverty has been an issue for decades on end, and we finally have the tec
 **Sources**
 
 Castelan, C. R. (2019, July 9). Making a better poverty map. Retrieved March 22, 2021, from https://blogs.worldbank.org/opendata/making-better-poverty-map
+
 Horton, M. (n.d.). Stanford scientists COMBINE satellite data, machine learning to map poverty. Retrieved March 22, 2021, from https://pangea.stanford.edu/news/stanford-scientists-combine-satellite-data-machine-learning-map-poverty
+
 Kumar, A. (2020, July 06). How to understand global poverty from outer space. Retrieved March 22, 2021, from https://towardsdatascience.com/how-to-understand-global-poverty-from-outer-space-442e2a5c3666
+
 Martinez, A., Jr. (2021, March 11). Using machine learning on satellite images to map poverty. Retrieved March 22, 2021, from https://development.asia/insight/using-machine-learning-satellite-images-map-poverty
+
 “Pape, Utz; Parisotto, Luca. 2019. Estimating Poverty in a Fragile Context : The High Frequency Survey in South Sudan. Policy Research Working Paper;No. 8722. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/31190
+
 “Pape, Utz; Wollburg, Philip. 2019. Estimation of Poverty in Somalia Using Innovative Methodologies. Policy Research Working Paper;No. 8735. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/31267
+
 Steele, J. (2017, February 19). Mobile phones can create high-resolution poverty map. Retrieved February 23, 2021, from https://www.indiatoday.in/technology/news/story/mobile-phones-can-create-high-reolution-poverty-map-959791-2017-02-09
+
 Steele JE et al. 2017 Mapping poverty using mobile phone and satellite data. J. R. Soc. Interface 14: 20160690. http://dx.doi.org/10.1098/rsif.2016.0690
 
