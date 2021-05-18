@@ -15,5 +15,5 @@
 2. [Assignment 2](https://aravindsurumpudi.github.io/FirstRepository/LiteratureReview.html)
 3. [Assignment 3](https://aravindsurumpudi.github.io/FirstRepository/MethodicalInvestigation.html)
 4. [Assignment 4](https://aravindsurumpudi.github.io/FirstRepository/Presentation.html)
-5. [Assignment 4b] ((https://aravindsurumpudi.github.io/FirstRepository/FinalPresentation.html)
+5. [Assignment 4b] (https://aravindsurumpudi.github.io/FirstRepository/FinalPresentation.html)
 
