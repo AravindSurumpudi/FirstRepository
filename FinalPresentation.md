@@ -4,7 +4,7 @@
 
 #### May 17th, 2021
 
-word count: 1811 words
+Word count: 1811 words
 
 
 **Introduction**
